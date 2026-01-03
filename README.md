@@ -16,5 +16,7 @@ Ce projet met en avant des compétences en **programmation C**, **algorithmique*
 **traitement de données**, ainsi qu’une approche rigoureuse de la résolution de problèmes.
 
 ---
+## 👥 Contexte
+Projet réalisé **en groupe** dans le cadre du module *Informatique 3* — **CY Tech (2025–2026)**
 
 
